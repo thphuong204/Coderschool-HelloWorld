@@ -1,7 +1,7 @@
 
 A learning Project @CoderSchool.vn
 
-# **Student: ABC**
+# Student: ABC
 
 **Features:**
 
