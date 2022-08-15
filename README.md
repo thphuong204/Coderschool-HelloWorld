@@ -3,7 +3,7 @@ A learning Project @CoderSchool.vn
 
 # **Student: ABC**
 
-**Features: **
+**Features:**
 
 1. Create Github repo
 2. Add project's README using Markdown
